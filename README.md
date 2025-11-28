@@ -30,3 +30,5 @@ utf-8.testdns.nl.		IN	TXT	"ᶠᶸᶜᵏᵧₒᵤ!🖕"
 
 ;; Query completed.
 ~~~
+
+Discussion on [DNS WG mailinglist here](https://mailarchive.ietf.org/arch/msg/dnsop/oNnBsRcb5L4z3m6__JlhxDfAJL0/).
