@@ -21,12 +21,10 @@ utf-8.testdns.nl.		IN	TXT	"https://example.com.ו.קום/ـ/"
 utf-8.testdns.nl.		IN	TXT	"mailto:🤓@example.テスト"
 utf-8.testdns.nl.		IN	TXT	"𝚃𝚑𝚒𝚜 𝚕𝚘𝚘𝚔𝚜 𝚙𝚛𝚎𝚝𝚝𝚢 𝚗𝚒𝚌𝚎."
 utf-8.testdns.nl.		IN	TXT	"Ça a l'air plutôt bien."
-utf-8.testdns.nl.		IN	TXT	"𓀐𓂺"
 utf-8.testdns.nl.		IN	TXT	"ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐"
 utf-8.testdns.nl.		IN	TXT	"זה נראה די נחמד."
 utf-8.testdns.nl.		IN	TXT	"かなり良さそうですね。"
 utf-8.testdns.nl.		IN	TXT	"Pardon my French - I'm only testing some things here."
-utf-8.testdns.nl.		IN	TXT	"ᶠᶸᶜᵏᵧₒᵤ!🖕"
 
 ;; Query completed.
 ~~~
