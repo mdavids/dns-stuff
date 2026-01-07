@@ -27,7 +27,7 @@ static void print_quoted_chunk(const unsigned char *s, int n) {
             putchar('\\');
             putchar(c);
         } else if (c < 32 || c >= 127) {
-            printf("\\%03o", c);
+            printf("\\%03d", c);
         } else {
             putchar(c);
         }
